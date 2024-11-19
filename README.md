@@ -10,6 +10,20 @@ The project uses a Convolutional Neural Network (CNN) and the VGG16 pre-trained 
 - **User Interface**: A Tkinter-based GUI to upload images and view predictions.
 - **Prediction and Advice**: Displays predictions and provides specific advice for each hair health type.
 
+## Screenshots
+
+Here are some screenshots showing how the project looks and works:
+
+1. **Main Interface** - The user interface where users can upload images of scalp or hair for prediction.
+
+   ![Main Interface](https://github.com/user-attachments/assets/ec356025-0946-435b-9938-2eff76be0ab8)
+
+2. **Prediction Screen** - After uploading the image, the predicted class and specific advice are displayed.Based on the prediction, users receive general hair care pointers and specific advice for their hair type.
+
+   ![Prediction Screen For(Men)](https://github.com/user-attachments/assets/9117e173-fe73-43b1-ac9e-b9353c87f36a)
+   ![Prediction Screen For(Women)](https://github.com/user-attachments/assets/3088a7ff-3f7a-4e9c-9b3a-0a00862d4a94)
+
+
 ## Installation
 
 ### Requirements:
